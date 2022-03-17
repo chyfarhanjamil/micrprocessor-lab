@@ -1,4 +1,4 @@
 # micrprocessor-lab shortcuts
-INCLUDE 'EMU8086.INC'
-PRINT ' '
-PRINT N ' '
+INCLUDE 'EMU8086.INC' __
+PRINT ' ' __ 
+PRINT N ' ' __
